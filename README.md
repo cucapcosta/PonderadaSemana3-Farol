@@ -15,6 +15,17 @@
 <br>
 &emsp;Além disso, o buzzer está conectado em outro pino, que começa a "bipar" durante o sinal verde, simulando um [semáforo australiano](https://www.youtube.com/watch?v=B0cz1XW9QvE&pp=ygUSc2VtYWZvcm8gYXVzdHJhbGlh)
 
+## Materiais
+
+| Componente  | Quantidade |
+| ------------- | ------------- |
+| Jumper MxF  | 6  |
+| Jumper MxM  | 3  |
+| Buzzer  | 1  |
+| LED | 3  |
+| Arduino  | 1  |
+| Resistor 330 ohms  | 1  |
+
 ## Código
 
 ```cpp
